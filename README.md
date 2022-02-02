@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nitinpal2001
-- 👀 I’m interested in HTML5,CSS3 and JS being a web developer 
-- 🌱 I’m currently learning reactjs framework
+- 👀 I’m working in HTML5,CSS3, JS and ReactJs being a web developer 
 - 💞️ I’m looking to collaborate on any web developer project/gig
 - 📫 How to reach me, You can mail me at- nitinpalrav@gmail.com
 
